@@ -105,3 +105,8 @@ button:hover{
         width: 80%;
     }
 }
+@media screen and (max-width:427px) {
+    .popup{
+        width: 95%;
+    }
+}
